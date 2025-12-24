@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../mascots-beach.png" alt="raskell.io mascots at the beach" width="600">
+</p>
+
 # raskell.io
 
 A small independent org for building things that should keep working when reality shows up.

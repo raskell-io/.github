@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raskell-io/.github/main/mascots-beach.png"
+  <img src="https://raw.githubusercontent.com/raskell-io/.github/main/raskell-sunrise.png"
        alt="raskell.io mascots at the beach"
        width="720" />
 </p>

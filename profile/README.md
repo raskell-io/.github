@@ -18,7 +18,7 @@
 
 
 
-## Ethos
+## How we build
 
 raskell-io is about **tech that serves humans**.
 

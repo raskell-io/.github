@@ -7,7 +7,7 @@
 <h1 align="center">raskell.io</h1>
 
 <p align="center">
-  A small independent org building systems that keep working when reality shows up.
+  Tech that serves humans — boring by default, precise when required.
 </p>
 
 <p align="center">
@@ -28,12 +28,12 @@ The best tools are the ones that **disappear into the background**:
 - have sane defaults
 - stay boring where boring is good (because boring is reliable)
 
-We don’t build complexity for its own sake. We build the **right amount of complexity**:
+We don't build complexity for its own sake. We build the **right amount of complexity**:
 - simple when the problem is simple
 - precise (and yes, sometimes complex) when the problem demands it
 
-We’re **stack-agnostic on purpose**. Languages and frameworks are instruments, not identities.
-We’ll use Haskell, Rust, Elixir, Go, Python — whatever fits — and treat AI/LLMs the same way:
+We're **stack-agnostic on purpose**. Languages and frameworks are instruments, not identities.
+We'll use Haskell, Rust, Elixir, Go, Python — whatever fits — and treat AI/LLMs the same way:
 powerful tools, not a religion.
 
 The goal is always the same: **make good ideas real**, without making humans pay a complexity tax.
@@ -53,26 +53,26 @@ The goal is always the same: **make good ideas real**, without making humans pay
 A security-first reverse proxy built to guard the free web based on Cloudflare's Pingora framework.
 
 ### [hx](https://github.com/raskell-io/hx)
-Extremely fast Haskell package + project manager built in Rust.  
+Extremely fast Haskell package + project manager built in Rust.
 
 ### [bhc](https://github.com/raskell-io/bhc)
-The Basel Haskell Compiler. Next-gen compiler + runtime: predictable performance, structured concurrency, tensor-native numeric pipeline.  
+The Basel Haskell Compiler. Next-gen compiler + runtime: predictable performance, structured concurrency, tensor-native numeric pipeline.
 
 ### [Shiioo (CO)](https://github.com/raskell-io/shiioo)
-The Virtual Company OS. Agentic enterprise orchestrator: DAG workflows, event sourcing, MCP tools.  
+The Virtual Company OS. Agentic enterprise orchestrator: DAG workflows, event sourcing, MCP tools.
 
 ## Labs / passion projects
 
 These are exploratory. Some will become serious. Some will stay fun.
 
 ### [terrarium](https://github.com/raskell-io/terrarium)
-A societal simulation engine where LLM-powered agents form emergent civilizations 
+A societal simulation engine where LLM-powered agents form emergent civilizations
 
 ### [robogym](https://github.com/raskell-io/robogym)
-Rust/Bevy PWA for training robotic agents (very early) 
+Rust/Bevy PWA for training robotic agents (very early)
 
 ### [Paw & Claw: Woodland Wars](https://github.com/raskell-io/paw-and-claw)
-HD-2D-stylized turn-based tactics game (spiritual successor Nintendo's game Advance Wars) built with Rust/Bevy. 
+HD-2D-stylized turn-based tactics game (spiritual successor Nintendo's game Advance Wars) built with Rust/Bevy.
 
 
 ## Security

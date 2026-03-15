@@ -70,7 +70,7 @@ GitHub: [raskell-io/shiioo](https://github.com/raskell-io/shiioo)
 The Virtual Company OS. Agentic enterprise orchestrator: DAG workflows, event sourcing, MCP tools.
 
 ### Humankind
-Website: [humankind.plus](https://humankind.plus) · GitHub: [humandkind-plus](https://github.com/humandkind-plus)
+Website: [humankind.plus](https://humankind.plus) · GitHub: [humankind-plus](https://github.com/humankind-plus)
 
 Human-centered products and experiments built around the idea that software should leave people better off than it found them.
 

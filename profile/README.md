@@ -49,29 +49,48 @@ The goal is always the same: **make good ideas real**, without making humans pay
 
 ## Flagship and serious builds
 
-### [Sentinel](https://github.com/raskell-io/sentinel)
+### Zentinel
+Website: [zentinelproxy.io](https://zentinelproxy.io) · GitHub: [zentinelproxy/zentinel](https://github.com/zentinelproxy/zentinel)
+
 A security-first reverse proxy built to guard the free web based on Cloudflare's Pingora framework.
 
-### [hx](https://github.com/raskell-io/hx)
+### hx
+Website: [hx.arcanist.sh](https://hx.arcanist.sh) · GitHub: [arcanist-sh/hx](https://github.com/arcanist-sh/hx)
+
 Extremely fast Haskell package + project manager built in Rust.
 
-### [bhc](https://github.com/raskell-io/bhc)
+### bhc
+Website: [bhc.arcanist.sh](https://bhc.arcanist.sh) · GitHub: [arcanist-sh/bhc](https://github.com/arcanist-sh/bhc)
+
 The Basel Haskell Compiler. Next-gen compiler + runtime: predictable performance, structured concurrency, tensor-native numeric pipeline.
 
-### [Shiioo (CO)](https://github.com/raskell-io/shiioo)
+### Shiioo (CO)
+GitHub: [raskell-io/shiioo](https://github.com/raskell-io/shiioo)
+
 The Virtual Company OS. Agentic enterprise orchestrator: DAG workflows, event sourcing, MCP tools.
+
+### Humankind
+Website: [humankind.plus](https://humankind.plus) · GitHub: [humandkind-plus](https://github.com/humandkind-plus)
+
+Human-centered products and experiments built around the idea that software should leave people better off than it found them.
 
 ## Labs / passion projects
 
 These are exploratory. Some will become serious. Some will stay fun.
 
-### [terrarium](https://github.com/raskell-io/terrarium)
+### terrarium
+GitHub: [raskell-io/terrarium](https://github.com/raskell-io/terrarium)
+
 A societal simulation engine where LLM-powered agents form emergent civilizations
 
-### [robogym](https://github.com/raskell-io/robogym)
+### robogym
+GitHub: [raskell-io/robogym](https://github.com/raskell-io/robogym)
+
 Rust/Bevy PWA for training robotic agents (very early)
 
-### [Paw & Claw: Woodland Wars](https://github.com/raskell-io/paw-and-claw)
+### Paw & Claw: Woodland Wars
+GitHub: [raskell-io/paw-and-claw](https://github.com/raskell-io/paw-and-claw)
+
 HD-2D-stylized turn-based tactics game (spiritual successor Nintendo's game Advance Wars) built with Rust/Bevy.
 
 

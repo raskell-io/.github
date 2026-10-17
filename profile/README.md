@@ -35,7 +35,6 @@ Some stay fun. Both are fine.
 ## Secure edge infrastructure
 
 - **[Zentinel](https://zentinelproxy.io)** ([GitHub](https://github.com/zentinelproxy/zentinel)): a security-first reverse proxy on Cloudflare's Pingora, with isolated security agents.
-- **[Sango](https://sango.raskell.io)** ([GitHub](https://github.com/raskell-io/sango)): operator-grade edge diagnostics: TLS, HTTP/3, security headers, latency.
 - **[Vela](https://github.com/raskell-io/vela)**: no-downtime app deployment on bare metal. One binary, no containers.
 
 ## Languages and tooling
@@ -72,6 +71,7 @@ Early, paused, or waiting for their moment:
 [Conflux](https://github.com/raskell-io/conflux) ·
 [Shiioo](https://github.com/raskell-io/shiioo) ·
 [Ushio](https://github.com/raskell-io/ushio) ·
+[Sango](https://sango.raskell.io) ·
 [Human Macroscope](https://github.com/human-macroscope) ·
 [Die Zukunft](https://die-zukunft.ch) ·
 [Driftscape](https://github.com/raskell-io/driftscape) ·

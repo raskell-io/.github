@@ -56,9 +56,9 @@ Things you can open right now. Your data stays on your device; the games run in 
 - **[Terrarium](https://terrarium.raskell.io)** ([GitHub](https://github.com/raskell-io/terrarium)): a simulation where LLM-powered agents form emergent societies.
 - **[broodwar.live](https://broodwar.live)** ([GitHub](https://github.com/broodwar-live)): the community platform for StarCraft: Brood War.
 
-## Bigger bets
+## Ventures
 
-Ideas taken further, toward products or communities. They move in bursts, and some are resting right now.
+Early-stage ventures, built toward products and communities. Open to conversations with early users and investors.
 
 - **[Archipelag.io](https://archipelag.io)** ([GitHub](https://github.com/archipelag-io)): decentralized AI compute on community-operated GPU hosts.
 - **[Cyanea](https://cyanea.bio)** ([GitHub](https://github.com/cyanea-bio)): an open community for life science research.

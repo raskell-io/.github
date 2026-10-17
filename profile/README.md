@@ -45,14 +45,14 @@ Some stay fun. Both are fine.
 - **[WASM-AD](https://wasmad.raskell.io)** ([GitHub](https://github.com/raskell-io/wasm-ad)): a fantasy console standard whose cartridges are WebAssembly modules.
 - **[seijaku](https://github.com/raskell-io/seijaku)**: 静寂 the zero-JavaScript Zola theme behind raskell.io.
 
-## Local-first apps and games
+## Local-first apps and simulations
 
-Things you can open right now. Your data stays on your device; the games run in the browser.
+Things you can open right now. Your data stays on your device; the simulations run in the browser.
 
 - **[Kurumi](https://kurumi.raskell.io)** ([GitHub](https://github.com/raskell-io/kurumi)): a local-first, AI-native second brain that works offline.
 - **[Manabi](https://manabi.raskell.io)** ([GitHub](https://github.com/raskell-io/manabi)): 学 a reading-first language-learning app for Chinese, Japanese, and Hebrew.
 - **[Paw & Claw](https://pawandclaw.raskell.io)** ([GitHub](https://github.com/raskell-io/paw-and-claw)): turn-based tactics in the spirit of Advance Wars, fought by woodland armies.
-- **[Rainbow River](https://rainbowriver.raskell.io)** ([GitHub](https://github.com/raskell-io/rainbow-river)): a handheld-era fishing game, and the first WASM-AD cartridge.
+- **[Rainbow River](https://rainbowriver.raskell.io)** ([GitHub](https://github.com/raskell-io/rainbow-river)): a handheld-era river-fishing simulation, and the first WASM-AD cartridge.
 - **[Terrarium](https://terrarium.raskell.io)** ([GitHub](https://github.com/raskell-io/terrarium)): a simulation where LLM-powered agents form emergent societies.
 - **[broodwar.live](https://broodwar.live)** ([GitHub](https://github.com/broodwar-live)): the community platform for StarCraft: Brood War.
 
